@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Ricardo, sou Rpogramador Front End, atualmente etou aprendendo e criando projetos com:
+Eu sou Ricardo, sou Programador Front End, atualmente etou aprendendo e criando projetos com:
 <br>
 <br>
     -<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
